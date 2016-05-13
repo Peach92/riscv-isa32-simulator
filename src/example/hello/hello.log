@@ -1,0 +1,164 @@
+This is a excutable elf32 file
+
+entry is: 10000
+PC: 800000 jal #1 65536
+Register: nextPc->810000
+#0:0	ra:8388612	sp:0	gp:84256	
+#4:0	#5:0	#6:0	#7:0	#8:0	#9:0	#10:0	
+#11:0	#12:0	#13:0	#14:0	#15:0	#16:0	#17:0	
+#18:0	#19:0	#20:0	#21:0	#22:0	#23:0	#24:0	
+#25:0	#26:0	#27:0	#28:0	#29:0	#30:0	#31:0	
+var: __EH_FRAME_BEGIN__  addr: 13070 
+
+var: __JCR_LIST__  addr: 138ec 
+
+var: completed.3081  addr: 14148 
+
+var: __do_global_dtors_aux_fini_array_entry  addr: 1306c 
+
+var: object.3086  addr: 1414c 
+value: 0  value: 0  value: 0  value: 0  value: 0  
+value: 0  
+var: __frame_dummy_init_array_entry  addr: 13068 
+
+var: __FRAME_END__  addr: 13070 
+
+var: __JCR_END__  addr: 138ec 
+
+var: impure_data  addr: 138f0 
+value: 0  value: 80860  value: 80964  value: 81068  value: 0  
+value: 0  value: 0  value: 0  value: 0  value: 0  
+value: 0  value: 0  value: 0  value: 77920  value: 0  
+value: 0  value: 0  value: 0  value: 0  value: 0  
+value: 0  value: 0  value: 0  value: 0  value: 0  
+value: 0  value: 0  value: 0  value: 0  value: 0  
+value: 0  value: 0  value: 0  value: 0  value: 0  
+value: 0  value: 0  value: 0  value: 0  value: 0  
+value: 0  value: 0  value: 1  value: 0  value: -1412615410  
+value: -429059532  value: 384748  value: 11  value: 0  value: 0  
+value: 0  value: 0  value: 0  value: 0  value: 0  
+value: 0  value: 0  value: 0  value: 0  value: 0  
+value: 0  value: 0  value: 0  value: 0  value: 0  
+value: 0  value: 0  value: 0  value: 0  value: 0  
+value: 0  value: 0  value: 0  value: 0  value: 0  
+value: 0  value: 0  value: 0  value: 0  value: 0  
+value: 0  value: 0  value: 0  value: 0  value: 0  
+value: 0  value: 0  value: 0  value: 0  value: 0  
+value: 0  value: 0  value: 0  value: 0  value: 0  
+value: 0  value: 0  value: 0  value: 0  value: 0  
+value: 0  value: 0  value: 0  value: 0  value: 0  
+value: 0  value: 0  value: 0  value: 0  value: 0  
+value: 0  value: 0  value: 0  value: 0  value: 0  
+value: 0  value: 0  value: 0  value: 0  value: 0  
+value: 0  value: 0  value: 0  value: 0  value: 0  
+value: 0  value: 0  value: 0  value: 0  value: 0  
+value: 0  value: 0  value: 0  value: 0  value: 0  
+value: 0  value: 0  value: 0  value: 0  value: 0  
+value: 0  value: 0  value: 0  value: 0  value: 0  
+value: 0  value: 0  value: 0  value: 0  value: 0  
+value: 0  value: 0  value: 0  value: 0  value: 0  
+value: 0  value: 0  value: 0  value: 0  value: 0  
+value: 0  value: 0  value: 0  value: 0  value: 0  
+value: 0  value: 0  value: 0  value: 0  value: 0  
+value: 0  value: 0  value: 0  value: 0  value: 0  
+value: 0  value: 0  value: 0  value: 0  value: 0  
+value: 0  value: 0  value: 0  value: 0  value: 0  
+value: 0  value: 0  value: 0  value: 0  value: 0  
+value: 0  value: 0  value: 0  value: 0  value: 0  
+value: 0  value: 0  value: 0  value: 0  value: 0  
+value: 0  value: 0  value: 0  value: 0  value: 0  
+value: 0  value: 0  value: 0  value: 0  value: 0  
+value: 0  value: 0  value: 0  value: 0  value: 0  
+value: 0  value: 0  value: 0  value: 0  value: 0  
+value: 0  value: 0  value: 0  value: 0  value: 0  
+value: 0  value: 0  value: 0  value: 0  value: 0  
+value: 0  value: 0  value: 0  value: 0  value: 0  
+value: 0  value: 0  value: 0  value: 0  value: 0  
+value: 0  value: 0  value: 0  value: 0  value: 0  
+value: 0  value: 0  value: 0  value: 0  value: 0  
+value: 0  value: 0  value: 0  value: 0  value: 0  
+value: 0  value: 0  value: 0  value: 0  value: 0  
+value: 0  value: 0  value: 0  value: 0  value: 0  
+value: 0  
+var: heap_end.2308  addr: 14144 
+value: 0  
+var: t0.2270  addr: 14190 
+value: 0  value: 0  value: 0  value: 0  
+var: __TMC_END__  addr: 14120 
+
+var: __malloc_top_pad  addr: 14140 
+value: 0  
+var: __dso_handle  addr: 14120 
+
+var: __malloc_max_sbrked_mem  addr: 1413c 
+value: 0  
+var: _global_impure_ptr  addr: 14124 
+value: 80112  
+var: __malloc_sbrk_base  addr: 1412c 
+value: -1  
+var: __malloc_current_mallinfo  addr: 14164 
+value: 0  value: 0  value: 0  value: 0  value: 0  
+value: 0  value: 0  value: 0  value: 0  value: 0  
+
+var: __malloc_av_  addr: 13d18 
+value: 0  value: 0  value: 81176  value: 81176  value: 81184  
+value: 81184  value: 81192  value: 81192  value: 81200  value: 81200  
+value: 81208  value: 81208  value: 81216  value: 81216  value: 81224  
+value: 81224  value: 81232  value: 81232  value: 81240  value: 81240  
+value: 81248  value: 81248  value: 81256  value: 81256  value: 81264  
+value: 81264  value: 81272  value: 81272  value: 81280  value: 81280  
+value: 81288  value: 81288  value: 81296  value: 81296  value: 81304  
+value: 81304  value: 81312  value: 81312  value: 81320  value: 81320  
+value: 81328  value: 81328  value: 81336  value: 81336  value: 81344  
+value: 81344  value: 81352  value: 81352  value: 81360  value: 81360  
+value: 81368  value: 81368  value: 81376  value: 81376  value: 81384  
+value: 81384  value: 81392  value: 81392  value: 81400  value: 81400  
+value: 81408  value: 81408  value: 81416  value: 81416  value: 81424  
+value: 81424  value: 81432  value: 81432  value: 81440  value: 81440  
+value: 81448  value: 81448  value: 81456  value: 81456  value: 81464  
+value: 81464  value: 81472  value: 81472  value: 81480  value: 81480  
+value: 81488  value: 81488  value: 81496  value: 81496  value: 81504  
+value: 81504  value: 81512  value: 81512  value: 81520  value: 81520  
+value: 81528  value: 81528  value: 81536  value: 81536  value: 81544  
+value: 81544  value: 81552  value: 81552  value: 81560  value: 81560  
+value: 81568  value: 81568  value: 81576  value: 81576  value: 81584  
+value: 81584  value: 81592  value: 81592  value: 81600  value: 81600  
+value: 81608  value: 81608  value: 81616  value: 81616  value: 81624  
+value: 81624  value: 81632  value: 81632  value: 81640  value: 81640  
+value: 81648  value: 81648  value: 81656  value: 81656  value: 81664  
+value: 81664  value: 81672  value: 81672  value: 81680  value: 81680  
+value: 81688  value: 81688  value: 81696  value: 81696  value: 81704  
+value: 81704  value: 81712  value: 81712  value: 81720  value: 81720  
+value: 81728  value: 81728  value: 81736  value: 81736  value: 81744  
+value: 81744  value: 81752  value: 81752  value: 81760  value: 81760  
+value: 81768  value: 81768  value: 81776  value: 81776  value: 81784  
+value: 81784  value: 81792  value: 81792  value: 81800  value: 81800  
+value: 81808  value: 81808  value: 81816  value: 81816  value: 81824  
+value: 81824  value: 81832  value: 81832  value: 81840  value: 81840  
+value: 81848  value: 81848  value: 81856  value: 81856  value: 81864  
+value: 81864  value: 81872  value: 81872  value: 81880  value: 81880  
+value: 81888  value: 81888  value: 81896  value: 81896  value: 81904  
+value: 81904  value: 81912  value: 81912  value: 81920  value: 81920  
+value: 81928  value: 81928  value: 81936  value: 81936  value: 81944  
+value: 81944  value: 81952  value: 81952  value: 81960  value: 81960  
+value: 81968  value: 81968  value: 81976  value: 81976  value: 81984  
+value: 81984  value: 81992  value: 81992  value: 82000  value: 82000  
+value: 82008  value: 82008  value: 82016  value: 82016  value: 82024  
+value: 82024  value: 82032  value: 82032  value: 82040  value: 82040  
+value: 82048  value: 82048  value: 82056  value: 82056  value: 82064  
+value: 82064  value: 82072  value: 82072  value: 82080  value: 82080  
+value: 82088  value: 82088  value: 82096  value: 82096  value: 82104  
+value: 82104  value: 82112  value: 82112  value: 82120  value: 82120  
+value: 82128  value: 82128  value: 82136  value: 82136  value: 82144  
+value: 82144  value: 82152  value: 82152  value: 82160  value: 82160  
+value: 82168  value: 82168  value: 82176  value: 82176  value: 82184  
+value: 82184  value: 82192  value: 82192  
+var: __malloc_max_total_mem  addr: 14138 
+value: 0  
+var: _impure_ptr  addr: 14128 
+value: 80112  
+var: __malloc_trim_threshold  addr: 14130 
+value: 131072  
+
+PC: 810000 Unkown Instruction!!!Shit!!!!IIIIIIIIIII
+Total Num of Instructions: 0
